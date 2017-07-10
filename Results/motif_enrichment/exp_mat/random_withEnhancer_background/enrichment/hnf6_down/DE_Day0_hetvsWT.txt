@@ -1,0 +1,3 @@
+name	type	file	genegroup
+hnf6	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/hnf6/PP2_Hnf6_summits_10_format.bed	DE_Day0_hetvsWT
+DE_Day0_hetvsWT	genes	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/genes/down/DE_Day0_hetvsWT_ev_mygenelist.txt	DE_Day0_hetvsWT

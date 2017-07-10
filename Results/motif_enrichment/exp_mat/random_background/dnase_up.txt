@@ -1,0 +1,10 @@
+name	type	file
+DE_Day0_hetvsWT_ev_250	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day0_hetvsWT_ev_250.bed
+DE_Day0_hetvsWT_ev_500	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day0_hetvsWT_ev_500.bed
+DE_Day0_hetvsWT_ev_1000	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day0_hetvsWT_ev_1000.bed
+DE_Day10_hetvsWT_ev_250	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day10_hetvsWT_ev_250.bed
+DE_Day10_hetvsWT_ev_500	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day10_hetvsWT_ev_500.bed
+DE_Day10_hetvsWT_ev_1000	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day10_hetvsWT_ev_1000.bed
+DE_Day14_hetvsWT_ev_250	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day14_hetvsWT_ev_250.bed
+DE_Day14_hetvsWT_ev_500	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day14_hetvsWT_ev_500.bed
+DE_Day14_hetvsWT_ev_1000	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/up/DE_Day14_hetvsWT_ev_1000.bed

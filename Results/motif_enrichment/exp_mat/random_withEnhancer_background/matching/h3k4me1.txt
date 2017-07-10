@@ -1,0 +1,2 @@
+name	type	file
+h3k4me1	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/h3k4me1/PP2_H3K4me1_1_format.bed

@@ -1,0 +1,3 @@
+name	type	file	genegroup
+dnase	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/Pancreatic_isletsDukeDNaseSeq_format.bed	DE_Day10_hetvsWT
+DE_Day10_hetvsWT	genes	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/genes/down/DE_Day10_hetvsWT_ev_mygenelist.txt	DE_Day10_hetvsWT

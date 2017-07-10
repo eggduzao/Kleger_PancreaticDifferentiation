@@ -1,0 +1,2 @@
+name	type	file
+DE_Day10_hetvsWT_ev_250	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/h3k4me1/up/DE_Day10_hetvsWT_ev_250.bed

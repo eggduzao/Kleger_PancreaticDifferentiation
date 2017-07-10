@@ -1,0 +1,2 @@
+name	type	file
+dnase	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/dnase/Pancreatic_isletsDukeDNaseSeq_format.bed

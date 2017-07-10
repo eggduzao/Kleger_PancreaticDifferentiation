@@ -1,0 +1,8 @@
+Time: 2015-11-05 12:34:25
+User: joseph
+
+Command:
+	$ /usr/local/bin/rgt-viz combinatorial -o viz_result -r EM_ref.txt -q EM.txt -t combinatorial_test -m count -venn
+Generating all combinatorial regions for further analysis...
+
+Total running time is : 0:00:19

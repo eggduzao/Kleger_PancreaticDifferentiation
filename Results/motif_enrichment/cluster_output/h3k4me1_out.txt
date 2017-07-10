@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 20796594: <h3k4me1> in cluster <rcc> Done
+
+Job <h3k4me1> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment> was used as the working directory.
+Started at Wed Mar 25 14:48:34 2015
+Results reported on Wed Mar 25 14:58:22 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --matching --organism hg19 --fpr 0.0001 --precision 10000 --pseudocounts 0.1 --rand-proportion 0.0001 --output-location /work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/results_match/h3k4me1/ --bigbed /work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/exp_mat/random_withEnhancer_background/matching/h3k4me1.txt
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   538.18 sec.
+    Max Memory :                                 1752 MB
+    Average Memory :                             927.00 MB
+    Total Requested Memory :                     24000.00 MB
+    Delta Memory :                               22248.00 MB
+    Max Processes :                              5
+    Max Threads :                                6
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <h3k4me1_err.txt> for stderr output of this job.
+

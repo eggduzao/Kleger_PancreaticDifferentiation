@@ -1,0 +1,9 @@
+name	type	file	factor
+
+#Gata6	regions	/projects/eduardo_pancreatic/test_Gata6.bed	Gata6
+#PTX1	regions	/projects/eduardo_pancreatic/test_PTX1.bed	PTX1
+
+#FoxA2	regions	/projects/eduardo_pancreatic/PP2_FoxA2_summits_10_500.bed	FoxA2
+#Gata2	regions	/projects/eduardo_pancreatic/PP2_Gata2_summits_10_500.bed	Gata2
+Hnf6	regions	/projects/eduardo_pancreatic/PP2_Hnf6_summits_10_500.bed	Hnf6
+#PTX1	regions	/projects/eduardo_pancreatic/PP2_PTX1_summits_10_500.bed	PTX1
