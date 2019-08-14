@@ -1,2 +1,0 @@
-name	type	file
-DE_Day14_hetvsWT_ev_1000	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/hnf6/up/DE_Day14_hetvsWT_ev_1000.bed

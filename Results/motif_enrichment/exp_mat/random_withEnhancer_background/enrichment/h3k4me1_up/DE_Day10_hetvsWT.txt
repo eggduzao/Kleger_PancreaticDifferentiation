@@ -1,3 +1,0 @@
-name	type	file	genegroup
-h3k4me1	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/h3k4me1/PP2_H3K4me1_1_format.bed	DE_Day10_hetvsWT
-DE_Day10_hetvsWT	genes	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/genes/up/DE_Day10_hetvsWT_ev_mygenelist.txt	DE_Day10_hetvsWT

@@ -1,3 +1,0 @@
-name    type    file 
-Hnf6	regions	../panc_prog/PP2_Hnf6_summits_10_100.bed
-

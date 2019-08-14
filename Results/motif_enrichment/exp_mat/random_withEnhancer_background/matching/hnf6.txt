@@ -1,2 +1,0 @@
-name	type	file
-hnf6	regions	/work/eg474423/eg474423_Projects/trunk/PancreaticDifferentiation/Results/motif_enrichment/ngs_data/hnf6/PP2_Hnf6_summits_10_format.bed
